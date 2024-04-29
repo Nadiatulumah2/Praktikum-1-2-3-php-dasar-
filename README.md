@@ -1,4 +1,4 @@
-# Lab3 Web
+# Lab 2 Web
 
 Nama  : Nadiatul umah
 
